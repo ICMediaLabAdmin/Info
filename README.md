@@ -10,10 +10,10 @@ Remember, in real games development houses it is essential that people know how 
 
 As we are likely to all be at varying programming skill levels this document will try to help point the members of the IC Media Lab in the direction of resources and tutorials to help give them a decent grounding and understanding of game programming concepts and the common languages used.
 
-For people who already have a solid grounding in games programming we have compiled suggestions from members as to what other resource and sites may be useful.
+For people whoWe have a commonly accessible github account under the name: ICMediaLab. Whenever you feel you want to create a new project simply set up a repo with your name or project name in the github account. already have a solid grounding in games programming we have compiled suggestions from members as to what other resource and sites may be useful.
 
 
-We have a commonly accessible github account under the name: ICMediaLab. Whenever you feel you want to create a new project simply set up a repo with your name or project name in the github account.
+The ICMediaLab github account is a shared account between all members. Whenever you feel you want to create a new project simply set up a repo with your name or project name.
 
 Depending on what you are interested and your skill level we can suggest the following options for tutorials. Its probably best not to start with C/C++, although they are the industry standard its very hard to get thrown in the deep end and start with them. Java and C# are probably better places to get started:
 
