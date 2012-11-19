@@ -10,12 +10,15 @@ Remember, in real games development houses it is essential that people know how 
 
 As we are likely to all be at varying programming skill levels this document will try to help point the members of the IC Media Lab in the direction of resources and tutorials to help give them a decent grounding and understanding of game programming concepts and the common languages used.
 
-For people whoWe have a commonly accessible github account under the name: ICMediaLab. Whenever you feel you want to create a new project simply set up a repo with your name or project name in the github account. already have a solid grounding in games programming we have compiled suggestions from members as to what other resource and sites may be useful.
-
+For people who already have a solid grounding in games programming we have compiled suggestions from members as to what other resource and sites may be useful.
 
 The ICMediaLab github account is a shared account between all members. Whenever you feel you want to create a new project simply set up a repo with your name or project name.
 
-Depending on what you are interested and your skill level we can suggest the following options for tutorials. Its probably best not to start with C/C++, although they are the industry standard its very hard to get thrown in the deep end and start with them. Java and C# are probably better places to get started:
+---------------------------------------------------------------------------------
+
+Depending on what you are interested and your skill level we can suggest the following options for tutorials. Its probably best not to start with C/C++, although they are the industry standard its very hard to get thrown in the deep end and start with them. Java and C# are probably better places to get started although its your choice.
+
+Note in time we will elaborate on this section giving clear and concise advice on how to get started and what tutorials are best to look at. For now here is a list of tutorials grouped under categories you may be interested in.
 
 Interested in Java + Android development:
 - http://www.kilobolt.com/game-development-tutorial.html
@@ -29,22 +32,22 @@ Interested in ObjectiveC and iOS development:
 Interested in learning OpenGL:
 - http://www.swiftless.com/
 
-No C/C++ experience:
+Interested in beginning with C/C++:
 - http://www.cprogramming.com/begin.html
 
-Limited C/C++ experience but want to improve: 
-- SDL tutorials from lazyfoo
+C/C++ experience working with SDL: 
+- http://lazyfoo.net/SDL_tutorials/index.php
 
 Interested in Playstation and Playstation Mobile:
 - http://www.playstation.com/psm/developer/index_e.html
 - http://www.gamefromscratch.com/page/PlayStation-Suite-SDK-Development-content.aspx
 
 Interested in Windows/Xbox programming:
-- XNA
+- XNA -> awaiting visual studio to be installed
 - http://msdn.microsoft.com/en-us/library/windows/apps/hh452744.aspx
 
 
-------------------------------------------------
+---------------------------------------------------------------------------------
 
 Other useful sites according to our members:
 
