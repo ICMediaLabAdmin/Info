@@ -14,6 +14,10 @@ For people who already have a solid grounding in games programming we have compi
 
 The ICMediaLab github account is a shared account between all members. Whenever you feel you want to create a new project simply set up a repo with your name or project name.
 
+If you have any suggestions you can come to us or check the facebook page :
+fb.com/groups/185348224901467/
+or email: jose.kalladanthyil11@imperial.ac.uk
+
 ---------------------------------------------------------------------------------
 
 Depending on what you are interested and your skill level we can suggest the following options for tutorials. Its probably best not to start with C/C++, although they are the industry standard its very hard to get thrown in the deep end and start with them. Java and C# are probably better places to get started although its your choice.
