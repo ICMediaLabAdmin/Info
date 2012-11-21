@@ -25,8 +25,10 @@ Depending on what you are interested and your skill level we can suggest the fol
 Note in time we will elaborate on this section giving clear and concise advice on how to get started and what tutorials are best to look at. For now here is a list of tutorials grouped under categories you may be interested in.
 
 Interested in Java + Android development:
-- http://www.kilobolt.com/game-development-tutorial.html \n
--http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html
+- http://www.kilobolt.com/game-development-tutorial.html 
+
+
+- http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html
 
 Interested in C#:
 - http://www.freewebs.com/campelmxna/tutorials.htm
