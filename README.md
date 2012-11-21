@@ -33,11 +33,12 @@ Interested in C#:
 
 Interested in ObjectiveC and iOS development:
 - http://mobile.tutsplus.com/tutorials/iphone/learn-ios-game-development-by-example-10-projects-to-get-you-started/
--http://www.raywenderlich.com/tutorials
+- http://www.raywenderlich.com/tutorials
 
 
 Interested in learning OpenGL:
 - http://www.swiftless.com/
+- http://www.cs.uccs.edu/~ssemwal/indexGLTutorial.html
 
 Interested in beginning with C/C++:
 - http://www.cprogramming.com/begin.html
