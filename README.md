@@ -26,6 +26,7 @@ Note in time we will elaborate on this section giving clear and concise advice o
 
 Interested in Java + Android development:
 - http://www.kilobolt.com/game-development-tutorial.html
+-http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html
 
 Interested in C#:
 - http://www.freewebs.com/campelmxna/tutorials.htm
